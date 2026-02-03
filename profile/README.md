@@ -1,4 +1,52 @@
-## Hi there 👋
+# Gater Robot
+
+**Telegram private communities: *Token-gated by Gater Robot***
+
+
+
+<div align="center">
+  <img width="256" height="256" alt="gater Gator Logo" src="https://github.com/user-attachments/assets/67df125b-7539-4c5f-b5e7-46d7c07397cd" />
+  <!-- <img width="480" height="816" alt="gater Gator Logo" src="https://github.com/user-attachments/assets/db15fb6e-6c0a-44e3-b754-5806bc0d6210" /> -->
+  <h5> 
+    Get Started - Open Telegram:
+  </h5>
+  <p>
+    <a href="https://t.me/gaterrobot" target="_blank">@GaterRobot</a>
+  </p>
+</div>
+
+
+---
+
+# Step 0: The Idea
+Demo screens:
+<img width="1397" height="933" alt="image" src="https://github.com/user-attachments/assets/08ce2b7b-d1a8-434e-a439-56cff8a7e015" />
+
+
+<img width="1372" height="901" alt="image" src="https://github.com/user-attachments/assets/b05f815c-9fc1-4445-86a1-03f7e23b071a" />
+
+<img width="1376" height="943" alt="image" src="https://github.com/user-attachments/assets/5effdb05-5baa-49db-bda8-3a141f7726d0" />
+
+<img width="1360" height="923" alt="image" src="https://github.com/user-attachments/assets/794a667a-e12c-4ed8-b9a9-10817b66fa62" />
+
+<img width="1364" height="917" alt="image" src="https://github.com/user-attachments/assets/4ef8fd3c-4a2b-48c3-bc3d-b0b284a047fd" />
+
+---
+
+# Step 1: Brainstorm User Journies
+
+View live demo screens:
+[gater-journey.agentix.bot](https://gater-journey.agentix.bot/)
+
+
+
+---
+
+[Gater Robot | Homepage](https://gater.agentix.bot)
+
+**Get Started - Open Telegram:**
+
+[@GaterRobot](https://t.me/gaterrobot)
 
 <!--
 
