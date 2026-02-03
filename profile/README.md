@@ -1,16 +1,20 @@
 # Gater Robot
 
 **Telegram private communities: *Token-gated by Gater Robot***
-![480X480 animated gater - mini](https://github.com/user-attachments/assets/67df125b-7539-4c5f-b5e7-46d7c07397cd)
+
 
 
 <div align="center">
-  <img width="480" height="816" alt="gater Gator Logo" src="https://github.com/user-attachments/assets/db15fb6e-6c0a-44e3-b754-5806bc0d6210" />
-  <h5> Get Started - Open Telegram:</h5>
+  <img width="256" height="256" alt="gater Gator Logo" src="https://github.com/user-attachments/assets/67df125b-7539-4c5f-b5e7-46d7c07397cd" />
+  <!-- <img width="480" height="816" alt="gater Gator Logo" src="https://github.com/user-attachments/assets/db15fb6e-6c0a-44e3-b754-5806bc0d6210" /> -->
+  <h5> 
+    Get Started - Open Telegram:
+  </h5>
   <p>
-    [@GaterRobot](https://t.me/gaterrobot)
+    <a href="https://t.me/gaterrobot" target="_blank">@GaterRobot</a>
   </p>
 </div>
+
 
 ---
 
@@ -32,6 +36,9 @@ Demo screens:
 
 [Gater Robot | Homepage](https://gater.agentix.bot)
 
+**Get Started - Open Telegram:**
+
+[@GaterRobot](https://t.me/gaterrobot)
 
 <!--
 
