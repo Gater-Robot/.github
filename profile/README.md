@@ -1,5 +1,6 @@
 # Gater Robot
-## Telegram private communities - token-gated by Gater Robot
+## Telegram private communities:
+## Token-gated by Gater Robot
 
 
 # The Idea
