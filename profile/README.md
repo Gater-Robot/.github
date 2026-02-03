@@ -4,6 +4,9 @@
 
 ***Token-gated by Gater Robot***
 
+Get Started - Open Telegram:
+[@GaterRobot](https://t.me/gaterrobot)
+
 ---
 
 # The Idea
@@ -21,11 +24,8 @@ Demo screens:
 
 ---
 
-[@GaterRobot](https://t.me/gaterrobot)
 
 [Gater Robot | Homepage](https://gater.agentix.bot)
-
-
 
 
 <!--
