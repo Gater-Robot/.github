@@ -1,11 +1,15 @@
 # Gater Robot
 
-**Telegram private communities:**
-
-***Token-gated by Gater Robot***
+**Telegram private communities: *Token-gated by Gater Robot***
 
 Get Started - Open Telegram:
 [@GaterRobot](https://t.me/gaterrobot)
+
+<div align="center">
+  ![gater-animated](https://github.com/user-attachments/assets/db15fb6e-6c0a-44e3-b754-5806bc0d6210)
+  <img width="480" height="816" alt="gater Gator Logo" src="https://github.com/user-attachments/assets/db15fb6e-6c0a-44e3-b754-5806bc0d6210" />
+
+</div>
 
 ---
 
