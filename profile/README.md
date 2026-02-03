@@ -1,7 +1,10 @@
 # Gater Robot
-## Telegram private communities:
-## Token-gated by Gater Robot
 
+**Telegram private communities:**
+
+***Token-gated by Gater Robot***
+
+---
 
 # The Idea
 Demo screens:
@@ -16,6 +19,11 @@ Demo screens:
 
 <img width="1364" height="917" alt="image" src="https://github.com/user-attachments/assets/4ef8fd3c-4a2b-48c3-bc3d-b0b284a047fd" />
 
+---
+
+[@GaterRobot](https://t.me/gaterrobot)
+
+[Gater Robot | Homepage](https://gater.agentix.bot)
 
 
 
