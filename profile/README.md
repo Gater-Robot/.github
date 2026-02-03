@@ -18,7 +18,7 @@
 
 ---
 
-# The Idea
+# Step 0: The Idea
 Demo screens:
 <img width="1397" height="933" alt="image" src="https://github.com/user-attachments/assets/08ce2b7b-d1a8-434e-a439-56cff8a7e015" />
 
@@ -33,6 +33,14 @@ Demo screens:
 
 ---
 
+# Step 1: Brainstorm User Journies
+
+View live demo screens:
+[gater-journey.agentix.bot](https://gater-journey.agentix.bot/)
+
+
+
+---
 
 [Gater Robot | Homepage](https://gater.agentix.bot)
 
