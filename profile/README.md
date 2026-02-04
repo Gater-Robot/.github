@@ -49,7 +49,7 @@
 
 ---
 
-<details>
+<details open>
 <summary>
 <h2> 
     Step 1: Brainstorm User Journies
@@ -78,7 +78,7 @@ View live demo screens:
 
 ---
 
-<details>
+<details open>
 <summary>
 <h2> 
     Step 2: Project Planning
