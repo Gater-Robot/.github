@@ -38,6 +38,17 @@ Demo screens:
 View live demo screens:
 [gater-journey.agentix.bot](https://gater-journey.agentix.bot/)
 
+<img width="1364" height="917" alt="simple bot + mini-app slide" src="img/user-journey-01/01-user-onboard.png" />
+
+<img width="1364" height="917" alt="simple bot + mini-app slide" src="img/user-journey-01/02-Bot-Auto-Moderatation-Messages.png" />
+
+<img width="1364" height="917" alt="simple bot + mini-app slide" src="img/user-journey-01/03-admin-token.png" />
+
+<img width="1364" height="917" alt="simple bot + mini-app slide" src="img/user-journey-01/04-admin-subsciption.png" />
+
+<img width="1364" height="917" alt="simple bot + mini-app slide" src="img/user-journey-01/05-subscriptions-channels-and-non-crypto.png" />
+
+
 
 
 ---
