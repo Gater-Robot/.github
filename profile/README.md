@@ -18,8 +18,22 @@
 
 ---
 
-# Step 0: The Idea
-Demo screens:
+# The Hackathon Process
+> [!TIP]
+> Expand each section to peek into the Hack-a-thon process -- see our work progress from idea to (hopefully) reality.
+
+<details>
+<summary>
+<h2> 
+    Step 0: The Idea
+</h2>
+
+<h4>
+  Figma Demo Screens
+</h4>
+
+</summary>
+
 <img width="1397" height="933" alt="image" src="https://github.com/user-attachments/assets/08ce2b7b-d1a8-434e-a439-56cff8a7e015" />
 
 
@@ -31,9 +45,21 @@ Demo screens:
 
 <img width="1364" height="917" alt="image" src="https://github.com/user-attachments/assets/4ef8fd3c-4a2b-48c3-bc3d-b0b284a047fd" />
 
+</details>
+
 ---
 
-# Step 1: Brainstorm User Journies
+<details>
+<summary>
+<h2> 
+    Step 1: Brainstorm User Journies
+</h2>
+
+<h4>
+  V0 Mocking User Jouries
+</h4>
+
+</summary>
 
 View live demo screens:
 [gater-journey.agentix.bot](https://gater-journey.agentix.bot/)
@@ -48,7 +74,32 @@ View live demo screens:
 
 <img width="1364" height="917" alt="simple bot + mini-app slide" src="img/user-journey-01/05-subscriptions-channels-and-non-crypto.png" />
 
+</details>
 
+---
+
+<details>
+<summary>
+<h2> 
+    Step 2: Project Planning
+</h2>
+
+<h4>
+  Tracking workstreams across team and repos using GitHub projects.
+</h4>
+
+</summary>
+
+> Orchestrating project, milestones, issues, and PRs using `gh` cli (and Claude Code)
+
+> [!TIP]
+> View llive project board as we crush tasks:<br/>
+> [Gater Robot | EthGlobal 2026 HackMoney Async Hackathon](https://github.com/orgs/Gater-Robot/projects/1)
+
+<img width="1897" height="1132" alt="image" src="https://github.com/user-attachments/assets/e1ed79d1-0e67-4d44-8ef9-431ac91b9e7b" />
+
+
+</details>
 
 
 ---
