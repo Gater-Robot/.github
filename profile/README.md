@@ -2,6 +2,18 @@
 
 **Telegram private communities: *Token-gated by Gater Robot***
 
+<div align="center">
+  <h4>Scan to open</h4>
+  <p>
+    <a href="https://t.me/GaterRobot" target="_blank">
+      <img width="220" height="220" alt="QR code to open @GaterRobot on Telegram" src="./img/gaterrobot-telegram-qr.png" />
+    </a>
+    <a href="https://t.me/GaterRobot/app?startapp=faucet" target="_blank">
+      <img width="220" height="220" alt="QR code for Gater Robot mini app faucet deep link" src="./img/gaterrobot-faucet-deeplink-qr.png" />
+    </a>
+  </p>
+</div>
+
 
 
 <div align="center">
