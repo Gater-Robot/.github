@@ -49,7 +49,7 @@
 
 ---
 
-<details open>
+<details>
 <summary>
 <h2> 
     Step 1: Brainstorm User Journies
@@ -78,7 +78,7 @@ View live demo screens:
 
 ---
 
-<details open>
+<details>
 <summary>
 <h2> 
     Step 2: Project Planning
@@ -97,6 +97,29 @@ View live demo screens:
 > [Gater Robot | EthGlobal 2026 HackMoney Async Hackathon](https://github.com/orgs/Gater-Robot/projects/1)
 
 <img width="1897" height="1132" alt="image" src="https://github.com/user-attachments/assets/e1ed79d1-0e67-4d44-8ef9-431ac91b9e7b" />
+
+
+</details>
+
+---
+
+<details>
+<summary>
+<h2> 
+    Step 3: PoC Implementaion - User
+</h2>
+
+<h4>
+  Initial /user mini-app onboarding and bot interactions
+</h4>
+
+</summary>
+
+<img width="2187" height="1372" alt="Frame 1" src="https://github.com/user-attachments/assets/62e6710e-ba53-4bef-8634-aa9536def7c3" />
+
+<img width="2187" height="1372" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/450fde6c-7eca-4673-b374-52006ee755af" />
+
+<img width="2187" height="1372" alt="Frame 1 (2)" src="https://github.com/user-attachments/assets/5a935839-b7f0-4290-b7f1-48edba1993a2" />
 
 
 </details>
